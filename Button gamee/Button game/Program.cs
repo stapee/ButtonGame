@@ -1,11 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Button_game
 {
+    internal static class State
+    {
+        public static string Name { get; set; }
+    }
+
     internal static class Program
     {
         /// <summary>
@@ -16,7 +18,9 @@ namespace Button_game
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
+
+        public static void Close() => Application.Exit();
     }
 }

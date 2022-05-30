@@ -10,3 +10,15 @@ D:\С#\Button game\Button game\obj\Debug\Button game.exe
 D:\С#\Button game\Button game\obj\Debug\Button game.pdb
 D:\С#\Button game\Button game\obj\Debug\Button_game.Form2.resources
 D:\С#\Button game\Button game\obj\Debug\Button_game.Form1.resources
+E:\ButtonGame\Button gamee\Button game\bin\Debug\Button game.exe.config
+E:\ButtonGame\Button gamee\Button game\bin\Debug\Button game.exe
+E:\ButtonGame\Button gamee\Button game\bin\Debug\Button game.pdb
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.csproj.AssemblyReference.cache
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.csproj.SuggestedBindingRedirects.cache
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button_game.Form2.resources
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button_game.Properties.Resources.resources
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.csproj.GenerateResource.cache
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.csproj.CoreCompileInputs.cache
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.exe
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button game.pdb
+E:\ButtonGame\Button gamee\Button game\obj\Debug\Button_game.MainForm.resources
